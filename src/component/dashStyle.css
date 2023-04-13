@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    margin: auto;
+    margin-top: 28.5%;
+    height: 30vh;
+    width: 100%;
+display: flex;
+justify-content: space-evenly;
+    background-color: gray;
+    /* margin-bottom: 10%; */
+    
+}
+.textfooter{
+    margin-top: 3%;
+}
+.textfooter a{
+display: block;
+padding-left: 5%;
+text-decoration: none;
+color: aliceblue;
+}
